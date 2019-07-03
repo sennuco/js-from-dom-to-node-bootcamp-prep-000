@@ -1,4 +1,4 @@
-let person1 = "Peter"
+node let person1 = "Peter"
 let person2 = "Withnail"
 
 console.log( 'Hi, how are you, ' + person2 + '?' )
